@@ -1,0 +1,6 @@
+area-unit-conversion==1.0
+color-convert==1.0
+conversion==0.0.7
+PyPressure==1.0.0
+temp2temp==1.0.0
+unitc==0.0.4
